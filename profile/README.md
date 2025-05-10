@@ -2,11 +2,11 @@
 
 # Solar - Build real software exceedingly fast
 
-> Build apps with many AI agents on a canvas.
+> Build 0-1 apps with many AI agents on a canvas.
 
 ## TL;DR;
 
-In Solar, you build full-stack apps alongside many LLMs on a spatial canvas, where you can freely remix features and try design variants. Bring your own backend, or Solar can generate full Python & Postgres stacks with builtin auth, in minutes.
+In Solar, you build full-stack apps alongside many LLMs on a spatial canvas, where you can freely remix features and try design variants. Bring your own backend, or Solar can generate full Python & Postgres stacks with builtin auth and deploy everything in minutes.
 
 ## Demo
 
