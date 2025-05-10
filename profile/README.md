@@ -8,18 +8,18 @@
 
 In Solar, you build full-stack apps alongside many LLMs on a spatial canvas, where you can freely remix features and try design variants. Bring your own backend, or Solar can generate full Python & Postgres stacks with builtin auth, in minutes.
 
-## Demo // explore the canvas yourself
+## Demo
 
-https://github.com/Lumenary-Inc/solar-assets/blob/develop/guides.fixBugs.gif?raw=true
+https://github.com/user-attachments/assets/343c901f-b461-42d4-98d0-2deb4636ec5d
 
 ### More demos
 
 3D Rubik's cube solver
-- Explore the canvas
+- [Explore the canvas](https://solarapp.dev/df18581e-478d-451f-8f82-5c2044a5fab8/canvas)
 
 X-ray medical classifier using vision transformers
-- Deployed
-- Explore the canvas
+- [Deployed](https://xray.by.solar)
+- [Explore the canvas](https://solarapp.dev/f5e264d5-8b9a-4faf-92c0-e39e979596f8/canvas)
 
 
 ## Problem
