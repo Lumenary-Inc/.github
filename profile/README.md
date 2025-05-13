@@ -10,7 +10,7 @@ Build full-stack apps alongside many LLMs on a canvas, where you can freely remi
 
 ## Demo
 
-[Explore the canvas yourself](https://solarapp.dev/fdd48e04-12c9-450e-9511-0da2d9ce5772/canvas)
+Built in under an hour — [Explore the canvas yourself](https://solarapp.dev/fdd48e04-12c9-450e-9511-0da2d9ce5772/canvas)
 
 https://youtu.be/d70ugaMXRxo
 
