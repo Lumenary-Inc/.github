@@ -1,45 +1,48 @@
+# Launch BF: Solar — Build real software exceedingly fast
 
+> Ship in minutes with “Figma + Cursor + Retool”
 
-# Solar - Build real software exceedingly fast
+## TLDR
 
-> Build 0-1 apps with many AI agents on a canvas.
-
-## TL;DR;
-
-In Solar, you build full-stack apps alongside many LLMs on a spatial canvas, where you can freely remix features and try design variants. Bring your own backend, or Solar can generate full Python & Postgres stacks with builtin auth and deploy everything in minutes.
+Build full-stack apps alongside many LLMs on a canvas, where you can freely remix features and try design variants. We provide infra (auth, DBs, storage, servers), or you can integrate with your own. Deploy in a click.
 
 ## Demo
 
-https://github.com/user-attachments/assets/343c901f-b461-42d4-98d0-2deb4636ec5d
+[Explore the canvas yourself](https://solarapp.dev/fdd48e04-12c9-450e-9511-0da2d9ce5772/canvas)
 
-### More demos
+will embed: https://youtu.be/d70ugaMXRxo
 
-3D Rubik's cube solver
-- [Explore the canvas](https://solarapp.dev/df18581e-478d-451f-8f82-5c2044a5fab8/canvas)
-
-X-ray medical classifier using vision transformers
+We’ve built X-ray medical classifier using vision transformers
 - [Deployed](https://xray.by.solar)
 - [Explore the canvas](https://solarapp.dev/f5e264d5-8b9a-4faf-92c0-e39e979596f8/canvas)
 
 
 ## Problem
 
-You can only send one message at a time using Lovable / Bolt / v0 / Replit. If the LLM does a bad job, you have to “revert” the change and start over. Most of your time is spent waiting and hoping.
+We’re a team of four engineers who’ve used nearly every AI-powered app builder. Projects started off great, but we found ourselves in an endless loop of “revert, and try again.” Most of our time was spent waiting and hoping as the LLM made changes one-at-a-time.
 
-Eventually, your app starts to come together, but you lack a clear picture of what exactly is happening. Where are my tables? What are my API endpoints? How is the authentication done, and is it secure? Wait, does this app even work?
+Even when the app seemed to work, it was unclear what were real features versus frontend demoware. We lacked an understanding of the architecture, dataflow, and what vulnerabilities were left open. It felt like these platforms had prioritized making neat frontends and bolted on real functionality as an afterthought.
+
 
 ## Solution
 
-Solar combines the best parts of Figma, Retool, and AI app builders.
+We loved three things:
+- Figma’s flexibility — work on many designs with many people
+- Cursor’s power — write production code with LLMs
+- Retool’s safety — ship apps that you know work
 
-Solar’s AI agents generate apps directly on a multiplayer spatial canvas, with database tables, Python business logic, and frontend pages all in one place. You can generate dozens of variants, work on different features concurrently, and simply discard failed attempts.
+We combined those to make Solar.
 
-Our code generation is powered in part by our proprietary build system. This system ingests LLM-generated business logic and deterministically generates the necessary database schemas, servers, SDK clients, and infrastructure. The result is a far more reliable and secure experience.
+Solar’s AI agents work alongside you on a multiplayer canvas. You can generate **dozens of variants** and work on different features **concurrently**.
+
+Solar’s AI generates database tables, API endpoints, and frontend pages so you can visualize and understand your app’s **data flow**.
+
+**Solar makes apps production-worthy** by combining LLM-generated code with deterministic code generation for databases, services, and authentication. This makes your apps maintainable and deployable past the MVP.
 
 ### Features
 
 Backend
-- Make FastAPI backends with access to Python’s rich package ecosystem (we’ve zero-shotted ML backends with Pytorch)
+- Make Python / FastAPI backends with access to Python’s rich package ecosystem ([we’ve first-shotted ML backends with Pytorch](https://solarapp.dev/f5e264d5-8b9a-4faf-92c0-e39e979596f8/canvas))
 - We provide authentication, database (Postgres), and object storage in every project at no additional cost. Single-click deploy.
 - Import your existing databases, lakehouses, and authentication.
 
@@ -48,10 +51,15 @@ Frontend
 - Easily clone and compare versions, like in Figma
 - Make the backend in Solar, or connect to any backend that uses OpenAPI. We’ll generate the client SDK.
 
+
 ## Ask
 
-We ask you to try building your most ambitious idea on Solar. It could be a side project, an internal tool, or a new prototype for your company.
+Sign up at [solarapp.dev](https://solarapp.dev) and try building an app. We have a very generous free tier for early sign ups – limited spots for now, but we are excited to share with YC.
 
-If your friends are using Lovable / Bolt / v0 and aren’t impressed, shoot them https://try.solar. We want to help people ship software that actually works.
+Build your most ambitious idea on Solar. We’ve had folks build:
+- Internal tools
+- Customer-facing product
+- Personal software
+- Multiplayer games
 
-Finally, we love seeing user creations, so send us apps you’re proud of.
+If you build something awesome, send it to us! If it didn’t work as well, we’d love to know why. [Here’s our Discord](https://discord.com/channels/1362654659881205830/1362654660455960688).
