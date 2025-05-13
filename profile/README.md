@@ -2,6 +2,8 @@
 
 > Ship in minutes with “Figma + Cursor + Retool”
 
+![xxxx-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/989dc522-11a4-4b80-bbc0-52a0e63f74b8)
+
 ## TLDR
 
 Build full-stack apps alongside many LLMs on a canvas, where you can freely remix features and try design variants. We provide infra (auth, DBs, storage, servers), or you can integrate with your own. Deploy in a click.
@@ -10,12 +12,11 @@ Build full-stack apps alongside many LLMs on a canvas, where you can freely remi
 
 [Explore the canvas yourself](https://solarapp.dev/fdd48e04-12c9-450e-9511-0da2d9ce5772/canvas)
 
-will embed: https://youtu.be/d70ugaMXRxo
+https://youtu.be/d70ugaMXRxo
 
 We’ve built X-ray medical classifier using vision transformers
 - [Deployed](https://xray.by.solar)
 - [Explore the canvas](https://solarapp.dev/f5e264d5-8b9a-4faf-92c0-e39e979596f8/canvas)
-
 
 ## Problem
 
