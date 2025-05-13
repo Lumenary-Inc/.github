@@ -14,10 +14,6 @@ Built in under an hour — [Explore the canvas yourself](https://solarapp.dev/fd
 
 https://youtu.be/d70ugaMXRxo
 
-We’ve built X-ray medical classifier using vision transformers
-- [Deployed](https://xray.by.solar)
-- [Explore the canvas](https://solarapp.dev/f5e264d5-8b9a-4faf-92c0-e39e979596f8/canvas)
-
 ## Problem
 
 We’re a team of four engineers who’ve used nearly every AI-powered app builder. Projects started off great, but we found ourselves in an endless loop of “revert, and try again.” Most of our time was spent waiting and hoping as the LLM made changes one-at-a-time.
