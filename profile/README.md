@@ -2,12 +2,14 @@
 
 > Ship in minutes with “Figma + Cursor + Retool”
 
-![xxxx-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/989dc522-11a4-4b80-bbc0-52a0e63f74b8)
-![appGenerationComplete-lbf-3](https://github.com/user-attachments/assets/718b7634-5cd0-4628-b663-5b2d40da7183)
 
 ## TLDR
 
 Build full-stack apps alongside many LLMs on a canvas, where you can freely remix features and try design variants. We provide infra (auth, DBs, storage, servers), or you can integrate with your own. Deploy in a click.
+
+![xxxx-ezgif com-video-to-gif-converter (3)](https://github.com/user-attachments/assets/fdae4101-8c86-4dc5-b3f2-f3c547483b08)
+
+![appGenerationComplete-lbf-3](https://github.com/user-attachments/assets/718b7634-5cd0-4628-b663-5b2d40da7183)
 
 ## Demo
 
