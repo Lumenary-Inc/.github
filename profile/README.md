@@ -9,8 +9,6 @@ Build full-stack apps alongside many LLMs on a canvas, where you can freely remi
 
 ![xxxx-ezgif com-video-to-gif-converter (3)](https://github.com/user-attachments/assets/fdae4101-8c86-4dc5-b3f2-f3c547483b08)
 
-![appGenerationComplete-lbf-3](https://github.com/user-attachments/assets/718b7634-5cd0-4628-b663-5b2d40da7183)
-
 ## Problem
 
 We’re a team of four engineers who’ve used nearly every AI-powered app builder. Projects started off great, but we found ourselves in an endless loop of “revert, and try again.” Most of our time was spent waiting and hoping as the LLM made changes one-at-a-time.
